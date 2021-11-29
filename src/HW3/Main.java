@@ -14,7 +14,7 @@ public class Main {
         swap(arr1,2,3);
         swap(arr2,0,1);
 
-        //Задание 3
+        //Задание 2
         Box<Orange> or = new Box<>();
         Box<Orange> or1 = new Box<>();
         Box<Apple> ap = new Box<>();
